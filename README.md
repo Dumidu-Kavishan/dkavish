@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" height="250" width="250"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" height="180" width="180"/></p>
 
 
 <h1 align="center">Hi 👋, I'm Dumidu Kavishan</h1>
