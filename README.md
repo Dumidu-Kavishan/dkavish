@@ -1,4 +1,4 @@
-<p align="center"><img  src = "[https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1611217876157/6ZbI33hAF.gif?auto=format,compress&gif-q=60&format=webm)" height="100" width="100"/></p>
+<p align="center"><img src="https://media1.tenor.com/m/y2JXkY1pXkwAAAAC/cat-computer.gif" height="100" width="100"/></p>
 
 
 <h1 align="center">Hi 👋, I'm Dumidu Kavishan</h1>
