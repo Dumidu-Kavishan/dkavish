@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" height="150" width="150"/></p>
+<p align="center"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/clans/25870705/7603fe64d493c2160f214ed87fdf8d216c6df05f.gif" height="300" width="500"/></p>
 
 
 <h1 align="center">Hi 👋, I'm Dumidu Kavishan</h1>
