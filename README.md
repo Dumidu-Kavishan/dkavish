@@ -13,11 +13,7 @@
 - 📫 How to reach me **dumidukavishan8@gmail.com**
 
 ---
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://fb.com/https://www.facebook.com/dumidu.kavishan.7792?mibextid=9r9pxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dumidu.kavishan.7792?mibextid=9r9pxo" height="50" width="50" /></a>
-<a href="https://instagram.com/https://www.instagram.com/dumidu_kavishan?igsh=mtvomg04yzh1mwpvdq%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dumidu_kavishan?igsh=mtvomg04yzh1mwpvdq%3d%3d&utm_source=qr" height="50" width="50" /></a>
-</p>
+
 
 ---
 
