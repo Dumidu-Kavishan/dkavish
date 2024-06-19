@@ -8,7 +8,7 @@
       <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 </head>
 ---
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dkavish&label=Profile%20views&color=0e75b6&style=flat" alt="dkavish" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Dumidu-Kavishan&label=Profile%20views&color=0e75b6&style=flat" alt="Dumidu-Kavishan" /> </p>
 
 
 
@@ -17,21 +17,21 @@
 - 📫 How to reach me **dumidukavishan8@gmail.com**
 
 <p align="center">
-  <a href="https://github.com/dkavish">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dkavish&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
+  <a href="https://github.com/Dumidu-Kavishan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dumidu-Kavishan&theme=radical&border=7F3FBF&background=0D1117" alt="GitHub streak"/>
   </a>
 </p>
 
 
 
 <a> 
-    <a href="https://github.com/dkavish"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dkavish&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/dkavish"><img alt="op Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dkavish&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Dumidu-Kavishan"><img alt="Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Dumidu-Kavishan&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Dumidu-Kavishan"><img alt="op Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Dumidu-Kavishan&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=dkavish&custom_title=Dumidu%20Kavishan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dumidu-Kavishan&custom_title=Dumidu%20Kavishan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
