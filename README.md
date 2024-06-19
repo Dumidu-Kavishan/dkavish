@@ -1,8 +1,8 @@
-
-
+<head>
+<meta name="google-site-verification" content="9RWg1biH1EUFJF0H3x0eG_u4pM6Koc4Q3FMZ9X0_dYA" />
 <h1 align="center">Hi 👋, I'm Dumidu Kavishan</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-
+</head>
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dkavish&label=Profile%20views&color=0e75b6&style=flat" alt="dkavish" /> </p>
 
